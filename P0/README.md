@@ -2,10 +2,10 @@
 
 ## Task 0
 
-The solution of **Task 0** runs in linear time *O(n)*, if we assume that built in list objects are linked lists.
+The solution of **Task 0** runs in linear time *O(1)*, if we assume that built in list objects are arrays.
 
-- Getting the first element from a linked list has constant time complexity.
-- Getting the last element from a linked list has linear time complexity.
+- Getting the first element from an array has constant time complexity.
+- Getting the last element from an array has constant time complexity.
 
 ## Task 1
 
